@@ -9,7 +9,7 @@
   #include <avr/power.h>
 #endif
 
-#define DEBUG
+//#define DEBUG
 //#define FASTFORWARD
 //#define SKIP_USB
 //#define SKIP_WIRES
