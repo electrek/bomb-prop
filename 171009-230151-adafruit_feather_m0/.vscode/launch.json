@@ -7,7 +7,7 @@
             "cwd": "${workspaceRoot}",
             "name": "PlatformIO Debugger",
             "target": "c:/Users/elect/Documents/PlatformIO/Projects/171009-230151-adafruit_feather_m0/.pioenvs/adafruit_feather_m0/firmware.elf",
-            "gdbpath": "C:/Users/elect/.platformio/penv/Scripts/piodebuggdb",
+            "gdbpath": "C:/Users/elect/Google Drive/Escapeology/Code/penv/Scripts/piodebuggdb",
             "autorun": [ "source .pioinit" ]
         }
     ]
